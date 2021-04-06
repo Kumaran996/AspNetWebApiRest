@@ -2,7 +2,7 @@
 Transunion Final Assessment 
 
 Use this below mentioned Test URL to check the Output Result.
-URL :  https://localhost:44377/api/Statistics
+Sample URL :  https://localhost:xxxxx/api/Statistics
 
 Input : MOCK_DATA_TU.csv
 Expected Output : 
